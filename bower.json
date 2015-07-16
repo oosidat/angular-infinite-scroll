@@ -1,0 +1,23 @@
+{
+  "name": "angular-infinite-scroll",
+  "version": "0.0.0",
+  "homepage": "https://github.com/oosidat/angular-infinite-scroll",
+  "authors": [
+    "Osama Sidat <osama.sidat@d2l.com>"
+  ],
+  "description": "Angular module for infinite scrolling",
+  "main": "src/infinite-scroll.js",
+  "keywords": [
+    "infinite",
+    "scroll",
+    "autoload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
